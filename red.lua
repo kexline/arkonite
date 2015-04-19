@@ -1,5 +1,10 @@
 -- redbrick.lua 
 
+-- Karen Exline
+-- CS 371
+-- HW5: Arkonite
+
+
 local xx=display.contentCenterX; local yy=display.contentCenterY;
 local ww=display.contentWidth;   local hh=display.contentWidth;
 

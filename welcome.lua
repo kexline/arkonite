@@ -1,4 +1,4 @@
--- Hw4 scene 1 welcome
+-- Hw5 scene 1 welcome
 
 -- Composer =======================================================
 local composer = require( "composer" );
@@ -47,7 +47,7 @@ end
 
 btnDesign=function(event)
 	print ("in btnStart");
-	composer.gotoScene( "design1", sceneOpt);
+	composer.gotoScene( "design", sceneOpt);
 end
 
 -- Show buttons

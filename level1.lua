@@ -1,5 +1,8 @@
 -- level1.lua
 
+-- Karen Exline
+-- CS 371
+-- HW5: Arkonite
 
 -- Composer
 local composer = require( "composer" );

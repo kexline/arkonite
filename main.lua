@@ -1,6 +1,6 @@
 -- Karen Exline
 -- CS 371
--- Homework 5:  OO brickbreaker
+-- Homework 5:  arkonite
 -- March 29, 2015
 
 -- main.lua
@@ -36,9 +36,10 @@ fontFace=native.systemFont;
 fs=hh*.03;
 
 -- ball and targets
-
 boxWidth=(ww-10)/6;  boxHeight=yy/10;
 paddleX=xx;  paddleY=hh*.9;
+
+setupList={};
 
 -- backgrounds and scene
 --local sheet = graphics.newImageSheet( "backgrounds.png", options );

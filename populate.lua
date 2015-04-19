@@ -1,15 +1,15 @@
 -- populate.lua
 
+-- Karen Exline
+-- CS 371
+-- HW5: Arkonite
+
 -- Not really a scene; an interstitial that is formatted as a scene so that the same "play" scene can be
 -- used for both designed and prepopulated levels.
 
 -- Prepopulated levels are made for testing and development purposes, and since they existed anyway, they were
 -- incorporated into the game.
 
--- Hw4 s2_level2
-
--- load in common constants
--- require("header")
 
 -- Composer
 local composer = require( "composer" );
